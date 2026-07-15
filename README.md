@@ -39,7 +39,6 @@ Inventory Dashboard designed to track stock levels, product availability, suppli
 
 ![Dashboard](Dashboard.png)
 
-![Dashboard Details](Dashboard_Details.png)
 
 ## Key Insights
 
